@@ -1,4 +1,4 @@
-# helloWorld 
+# helloWorld  
 helloWorld package was created to exemplify GitHub and R Studio Integration. 
 ### Note 
 Please consult this [link]( https://docs.github.com/en/get-started/writing-on-github/getting-started
